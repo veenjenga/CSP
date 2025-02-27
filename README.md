@@ -54,9 +54,11 @@ We welcome **developers, researchers, and accessibility advocates** to contribut
 - 📄 **Read the documentation** in the `/documentation` folder.  
 - 💻 **Check out the development roadmap** in `/development`.  
 - 🛠️ **Report issues or suggest features** via GitHub Issues.  
-- ✨ **Submit pull requests** for improvements in accessibility features.  
+- ✨ **Submit pull requests** for improvements in accessibility features.
+  
 
 ### **Contact & Acknowledgments**  
 This project is led by VanKalondu and a dedicated team consisting of MutaiAllan, veenjenga, httpnimrod, and Joel-nganga.  
+Attached is our Pitch Presentaton: file:///C:/Users/VANESSA/Downloads/Equaltrade%20PitchPPT.pdf
 For inquiries or collaboration, please reach out via [vanessaotieno32@gmail.com]
 
