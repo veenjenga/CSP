@@ -9,7 +9,7 @@ EqualTrade is an innovative e-commerce platform designed to **empower artisans w
 
 ### **Repository Structure**  
 ```
-/documentation
+/Documentation
    ├── equaltrade_research_paper.pdf   # Research paper detailing the problem and solution
    ├── workflow.md                     # Project workflow and implementation process
 /development
@@ -58,7 +58,8 @@ We welcome **developers, researchers, and accessibility advocates** to contribut
   
 
 ### **Contact & Acknowledgments**  
-This project is led by VanKalondu and a dedicated team consisting of MutaiAllan, veenjenga, httpnimrod, and Joel-nganga.  
-Attached is our Pitch Presentaton: file:///C:/Users/VANESSA/Downloads/Equaltrade%20PitchPPT.pdf
+VanKalondu and a dedicated team of MutaiAllan, veenjenga, httpnimrod, and Joel-nganga lead this project.  
+Attached is our Pitch Presentation: file:///C:/Users/VANESSA/Downloads/Equaltrade%20PitchPPT.pdf
+
 For inquiries or collaboration, please reach out via [vanessaotieno32@gmail.com]
 
