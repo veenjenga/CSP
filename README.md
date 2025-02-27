@@ -1,7 +1,3 @@
-Here’s the **updated README** with the correct repository structure reflecting "Documentation" instead of "Research."  
-
----
-
 ## **EqualTrade: Inclusive E-Commerce for Artisans with Disabilities**  
 
 ### **Overview**  
